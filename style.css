@@ -1,0 +1,186 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#E6EDF3;
+    background-color: white;
+    font-size: 14px;
+    border: none;
+    
+}
+.navbar{
+    height: 80px;
+    border: none;
+}
+.cardinfo{
+    color: white;
+    margin-top: 15px;
+    font-size: medium;
+}
+.manual{
+    margin-left: 900px;
+    color:#E6EDF3;
+}
+.title1{
+    font-size: 60px;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+.cli{
+    font-size: 14px;
+}
+.page2-2{
+    font-family: sans-serif;
+    font-size: medium;
+    margin-top: 10px;
+}
+.page2-1{
+    font-family: monospace;
+    font-size: 25px;
+    margin-top: 80px;
+
+}
+
+.textt{
+    margin-top: 50px;
+}
+.dollar{
+    color: blue;
+}
+.spann{
+    font-size: 55px;
+    color: black;
+}
+.cardn1{
+margin-top: 100px;
+text-align: left;
+}
+.span1{
+margin-left: -550px;
+position: absolute;
+margin-top: -17px;
+}
+.pagee2{
+    background-color: #231D2E;
+    height: 650px;
+    margin-top: 40px;
+}
+.line01{
+    font-family: monospace;
+    font-size: x-large;
+    margin-top: 50px;
+    margin-left: 1px;
+}
+.navv{
+    background-color: white !important;
+}
+.line02{
+    margin-top: 10px;
+    margin-left: -20px;
+    color: gray;
+
+}
+.line03{
+    margin-top: 10px;
+    margin-left: -20px;
+    color: gray; 
+}
+.line04{
+    margin-top: 10px;
+    margin-left: -20px;
+    color: gray;
+    
+}
+.gt{
+    text-align: end;
+    margin-bottom:100px;
+
+}
+.line05{
+    margin-top: 10px;
+    margin-left: -20px;
+    color: gray;
+}
+.line06{
+    margin-top: 10px;
+    margin-left: -20px;
+    color: gray;
+    
+}
+.view{
+    margin-top: 20px;
+}
+.card2{
+    text-align: left;
+    margin-left: 300px;
+    border: none;
+    margin-top: 70px;
+}
+.texttt{
+    color: gray;
+}
+.pagee3{
+    text-align: left;
+    background-color: white;
+    color: black;
+    margin-top: 80px;
+    
+}
+.buttonn{
+    margin-top: 30px;
+}
+.lastext{
+    margin-top: 40px;
+}
+.cardd{
+    display: flex;
+    justify-content: center;
+}
+.containerpage2{
+    height: 400px;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 50px;
+    font-family: monospace;
+    font-size: larger;
+text-align: left;
+}
+.card4{
+    position: absolute;
+    margin-left: 820px;
+    margin-top: 820px;
+    text-align: left;
+}
+.work2{
+    font-size: small;
+    color: rgb(51, 51, 95);
+}
+.work{
+    color: gray;
+    font-size: small;
+}
+.img{
+    height: 500px;
+    width: 1200px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
